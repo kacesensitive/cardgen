@@ -7,8 +7,6 @@ CardGen is a straightforward and easy-to-use Flask-based web API, crafted as a s
 -   **Get Card by Suit:** Obtain a random card from a specific suit.
 ## Getting Started
 ### Prerequisites
-
-
 -   Python 3.6 or later
 -   Flask
 -   An AWS account for deploying to AWS Elastic Beanstalk (optional)
@@ -43,3 +41,7 @@ The API should now be running on `http://localhost:5000/`.
 ## License
 
 This project is licensed under the MIT License
+
+
+## Demo
+You can access this demo api at http://cardgen.us-west-2.elasticbeanstalk.com/
