@@ -45,3 +45,5 @@ This project is licensed under the MIT License
 
 ## Demo
 You can access this demo api at http://cardgen.us-west-2.elasticbeanstalk.com/
+
+```curl 'http://cardgen.us-west-2.elasticbeanstalk.com/cards/?quantity=5'```
