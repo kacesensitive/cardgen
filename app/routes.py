@@ -1,4 +1,3 @@
-# app/routes.py
 import random
 from flask import jsonify, request
 
